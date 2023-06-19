@@ -1,0 +1,17 @@
+body{
+    background-image:url("endPage.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100%;
+    background-position: center;
+
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(247, 164, 40);
+    position: absolute;
+    top:15%;
+    left:25%;
+}
+

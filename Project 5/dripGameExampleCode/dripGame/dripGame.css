@@ -1,0 +1,105 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+body{
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100%;
+    background-position: center;
+}
+
+h1{
+    font-family: 'Indie Flower', cursive;
+}
+
+#waterdrop{
+    position: absolute;
+    left:28.5%;
+    top:40%;
+
+}
+
+/* #instruction{
+    float:left;
+    top: 3%;
+    left: 90%;
+} */
+
+#card1{
+    position: absolute;
+        top: 10%;
+        left:90%;
+}
+
+#card2{
+    position: absolute;
+        top: 25%;
+        left:90%;
+}
+#deadcard{
+    position: absolute;
+        top: 50%;
+        left:47%;
+    font-size:20px;
+    height:50px;
+    background-color:rgb(201, 39, 39);
+}
+
+#tap{
+    height: 150px;
+    width: 400px;
+    
+}
+
+/* #reward1 {
+     float:right;
+     width: 120px;
+} */
+
+/* .rewardDisplay {
+        
+        position: absolute;
+        top: 3%;
+        left: 90%;
+        transform: translate(-50%, -50%);
+        
+  } */
+  
+#display{
+    position: absolute;
+    top:30%;
+    left:50%;
+    font-size:30px;
+    font-family: 'Exo', sans-serif;
+}
+
+#instruction1{
+    position:absolute;
+    top:70%;
+    left:80%;
+    border:solid 4px white; 
+     
+}
+
+#instruction2{
+    position:absolute;
+    top:80%;
+    left:80%; 
+    border:solid 4px white; 
+    color:white;   
+}
+
+#instruction3{
+    position:absolute;
+    top:95%;
+    left:80%;
+    border:solid 4px white;   
+    color:white;     
+}
+
+
+
+
+    
